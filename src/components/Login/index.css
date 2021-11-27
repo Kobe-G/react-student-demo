@@ -1,0 +1,34 @@
+.title {
+  margin-bottom: 60px;
+}
+.login-wrapper {
+  width: 450px;
+  height: 350px;
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 200px;
+}
+
+.antd-input {
+  height: 50px;
+}
+.login-form {
+  max-width: 450px;
+}
+
+.login-form-forgot {
+  float: right;
+}
+
+.login-form-button {
+  width: 100%;
+}
+.right {
+  float: right;
+}
+.clearFix {
+  overflow: hidden;
+}
+.login-type {
+  margin-bottom: 20px;
+}

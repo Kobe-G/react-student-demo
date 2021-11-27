@@ -1,0 +1,6 @@
+export const change_password = 'teacher/change_password'
+export const look_per = 'teacher/look_per'
+export const change_teacher_information = 'teacher/change_teacher_information'
+export const jianjieInputChange = 'student/jianjieInputChange'
+export const update_tea = 'student/update_tea'
+export const add_title = 'student/add_title'

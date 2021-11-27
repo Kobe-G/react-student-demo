@@ -1,0 +1,108 @@
+.adminFont {
+  height: 64px;
+  font: 700 20px/64px 微软雅黑;
+  color: #fff;
+  margin-left: 10px;
+}
+
+.welcome {
+  height: 64px;
+  font: 700 20px/64px 微软雅黑;
+  color: #fff;
+  float: right;
+}
+
+.logout {
+  height: 64px;
+  font: 700 20px/64px 微软雅黑;
+  color: #fff;
+  float: right;
+}
+
+.small-title {
+  height: 40px;
+  background: #fff;
+  font-size: 15px;
+  line-height: 40px;
+}
+
+.small-title span {
+  margin-left: 10px;
+}
+
+.big-title {
+  height: 50px;
+  margin-left: 30px;
+  margin-top: 20px;
+  font: 700 30px/50px 微软雅黑;
+}
+
+hr {
+  border-top-color: #dadada;
+  margin: 20px 20px;
+  border: 0;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #fff;
+}
+.reset-wrapper {
+  margin-left: 120px;
+  margin-top: 60px;
+  border: 1px solid #cdcdcd;
+  width: 500px;
+  height: 300px;
+  background: #fff;
+  border-radius: 10px;
+}
+
+.input-item {
+  height: 50px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.teacher-wrapper {
+  margin: 20px 20px;
+  background: #fff;
+  box-sizing: border-box;
+}
+.teacher-wrapper tr th,
+td {
+  text-align: center;
+}
+
+.dangerButton {
+  width: 94px;
+  box-sizing: border-box;
+}
+
+.Tag {
+  width: 50px;
+  height: 25px;
+  font-size: 15px;
+  line-height: 23px;
+}
+
+.bfc {
+  overflow: hidden;
+}
+.add-div {
+  float: left;
+  margin: 10px 10px;
+}
+
+.studentInformation-wrapper {
+  margin: 20px 20px;
+  background: #fff;
+  box-sizing: border-box;
+  width: 700px;
+  border-radius: 10px;
+}
+
+.button-wrapper {
+  margin: 20px auto;
+  display: block;
+}
+
+.studentInformation-wrapper input {
+  color: #000 !important;
+}

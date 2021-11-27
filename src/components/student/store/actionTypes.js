@@ -1,0 +1,8 @@
+export const emailInputChange = 'student/emailInputChange'
+export const tellInputChange = 'student/tellInputChange'
+export const change_password = 'student/change_password'
+export const look_per = 'look_per'
+export const change_student_information = 'student/change_student_information'
+export const update_stu = 'student/update_stu'
+export const stu_title_list = 'student/stu_title_list'
+export const change_stu_title_list = 'student/change_stu_title_list'
